@@ -4,7 +4,7 @@ gem 'rails', '3.2.9'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
-gem 'sqlite3', :group => [:development, :test]
+#gem 'sqlite3', :group => [:development, :test]
 group :production do
   #gem 'therubyracer-heroku', '0.8.1.pre3'
   gem 'pg'
